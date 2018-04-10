@@ -1,0 +1,10 @@
+D:\Prac\WX\WXOAuth\Test\bin\Debug\netcoreapp2.0\Test.deps.json
+D:\Prac\WX\WXOAuth\Test\bin\Debug\netcoreapp2.0\Test.runtimeconfig.json
+D:\Prac\WX\WXOAuth\Test\bin\Debug\netcoreapp2.0\Test.runtimeconfig.dev.json
+D:\Prac\WX\WXOAuth\Test\bin\Debug\netcoreapp2.0\Test.dll
+D:\Prac\WX\WXOAuth\Test\bin\Debug\netcoreapp2.0\Test.pdb
+D:\Prac\WX\WXOAuth\Test\obj\Debug\netcoreapp2.0\Test.csproj.CoreCompileInputs.cache
+D:\Prac\WX\WXOAuth\Test\obj\Debug\netcoreapp2.0\Test.AssemblyInfoInputs.cache
+D:\Prac\WX\WXOAuth\Test\obj\Debug\netcoreapp2.0\Test.AssemblyInfo.cs
+D:\Prac\WX\WXOAuth\Test\obj\Debug\netcoreapp2.0\Test.dll
+D:\Prac\WX\WXOAuth\Test\obj\Debug\netcoreapp2.0\Test.pdb

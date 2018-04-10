@@ -1,0 +1,12 @@
+D:\Prac\WX\WXOAuth\Test
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=Test
+--content-root=D:\Prac\WX\WXOAuth\Test
+--file=D:\Prac\WX\WXOAuth\Test\Views\Home\About.cshtml
+--file=D:\Prac\WX\WXOAuth\Test\Views\Home\Contact.cshtml
+--file=D:\Prac\WX\WXOAuth\Test\Views\Home\Index.cshtml
+--file=D:\Prac\WX\WXOAuth\Test\Views\Shared\Error.cshtml
+--file=D:\Prac\WX\WXOAuth\Test\Views\Shared\_Layout.cshtml
+--file=D:\Prac\WX\WXOAuth\Test\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=D:\Prac\WX\WXOAuth\Test\Views\_ViewImports.cshtml
+--file=D:\Prac\WX\WXOAuth\Test\Views\_ViewStart.cshtml

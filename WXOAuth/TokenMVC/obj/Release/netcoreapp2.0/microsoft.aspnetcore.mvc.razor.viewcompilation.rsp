@@ -1,0 +1,12 @@
+D:\Prac\WX\WXOAuth\TokenMVC
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=TokenMVC
+--content-root=D:\Prac\WX\WXOAuth\TokenMVC
+--file=D:\Prac\WX\WXOAuth\TokenMVC\Views\Home\About.cshtml
+--file=D:\Prac\WX\WXOAuth\TokenMVC\Views\Home\Contact.cshtml
+--file=D:\Prac\WX\WXOAuth\TokenMVC\Views\Home\Index.cshtml
+--file=D:\Prac\WX\WXOAuth\TokenMVC\Views\Shared\Error.cshtml
+--file=D:\Prac\WX\WXOAuth\TokenMVC\Views\Shared\_Layout.cshtml
+--file=D:\Prac\WX\WXOAuth\TokenMVC\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=D:\Prac\WX\WXOAuth\TokenMVC\Views\_ViewImports.cshtml
+--file=D:\Prac\WX\WXOAuth\TokenMVC\Views\_ViewStart.cshtml

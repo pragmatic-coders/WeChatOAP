@@ -1,0 +1,11 @@
+D:\Prac\WX\WXOAuth\TokenMVC\bin\Release\netcoreapp2.0\TokenMVC.deps.json
+D:\Prac\WX\WXOAuth\TokenMVC\bin\Release\netcoreapp2.0\TokenMVC.runtimeconfig.json
+D:\Prac\WX\WXOAuth\TokenMVC\bin\Release\netcoreapp2.0\TokenMVC.runtimeconfig.dev.json
+D:\Prac\WX\WXOAuth\TokenMVC\bin\Release\netcoreapp2.0\TokenMVC.dll
+D:\Prac\WX\WXOAuth\TokenMVC\bin\Release\netcoreapp2.0\TokenMVC.pdb
+D:\Prac\WX\WXOAuth\TokenMVC\obj\Release\netcoreapp2.0\TokenMVC.csprojResolveAssemblyReference.cache
+D:\Prac\WX\WXOAuth\TokenMVC\obj\Release\netcoreapp2.0\TokenMVC.csproj.CoreCompileInputs.cache
+D:\Prac\WX\WXOAuth\TokenMVC\obj\Release\netcoreapp2.0\TokenMVC.AssemblyInfoInputs.cache
+D:\Prac\WX\WXOAuth\TokenMVC\obj\Release\netcoreapp2.0\TokenMVC.AssemblyInfo.cs
+D:\Prac\WX\WXOAuth\TokenMVC\obj\Release\netcoreapp2.0\TokenMVC.dll
+D:\Prac\WX\WXOAuth\TokenMVC\obj\Release\netcoreapp2.0\TokenMVC.pdb

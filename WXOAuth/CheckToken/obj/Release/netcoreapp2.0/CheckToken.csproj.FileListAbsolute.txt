@@ -1,0 +1,11 @@
+D:\Prac\WX\WXOAuth\CheckToken\bin\Release\netcoreapp2.0\CheckToken.deps.json
+D:\Prac\WX\WXOAuth\CheckToken\bin\Release\netcoreapp2.0\CheckToken.runtimeconfig.json
+D:\Prac\WX\WXOAuth\CheckToken\bin\Release\netcoreapp2.0\CheckToken.runtimeconfig.dev.json
+D:\Prac\WX\WXOAuth\CheckToken\bin\Release\netcoreapp2.0\CheckToken.dll
+D:\Prac\WX\WXOAuth\CheckToken\bin\Release\netcoreapp2.0\CheckToken.pdb
+D:\Prac\WX\WXOAuth\CheckToken\obj\Release\netcoreapp2.0\CheckToken.csproj.CoreCompileInputs.cache
+D:\Prac\WX\WXOAuth\CheckToken\obj\Release\netcoreapp2.0\CheckToken.AssemblyInfoInputs.cache
+D:\Prac\WX\WXOAuth\CheckToken\obj\Release\netcoreapp2.0\CheckToken.AssemblyInfo.cs
+D:\Prac\WX\WXOAuth\CheckToken\obj\Release\netcoreapp2.0\CheckToken.dll
+D:\Prac\WX\WXOAuth\CheckToken\obj\Release\netcoreapp2.0\CheckToken.pdb
+D:\Prac\WX\WXOAuth\CheckToken\obj\Release\netcoreapp2.0\CheckToken.csprojResolveAssemblyReference.cache
